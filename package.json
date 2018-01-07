@@ -14,6 +14,6 @@
   "author": "Pierre-Gilles Leymarie",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
-    "sonos": "^0.12.1"
+    "sonos": "^0.21.0"
   }
 }
